@@ -1,2 +1,3 @@
 # python-library-sample
-pythonの色々なsample
+pythonの色々なlibraryの色々なsample。
+デフォルトで入っているやつも。
